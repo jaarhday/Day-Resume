@@ -1,7 +1,3 @@
----
-layout: cv
-title: Alec Day's Resume
----
 # Alec Day
 
 248.534.2620 | alecd7442@gmail.com | www.linkedin.com/in/alec-day
