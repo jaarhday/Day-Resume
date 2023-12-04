@@ -1,89 +1,47 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Alec Day's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Alec Day
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+248.534.2620 | alecd7442@gmail.com | www.linkedin.com/in/alec-day
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+### Education
 
-## Education
+Bachelors of Science | Brigham Young University - Idaho | Rexburg, Idaho September 2019 - Present</p><p>
+- Major in Computer Science with an emphasis in Machine Learning</p><p>
+- GPA: 3.59</p>
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+### Computer Skills
+- Programming Languages: C# | C++ | Python | SQL</p><p>
+- Manual/Automated Tests | Software Development | Git | Technical Writing | Linear Algebra | Applied Calculus in R | Organization | Communication</p>
 
-- Full academic scholarship with 4.0 GPA
+### Projects
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+Team Member | *Data Science Society |* Rexburg, Idaho September 2023 - December 2023
+- Gathered, analyzed, and transformed census, traffic, and economic data from Madison County into comprehensive data tables and graphics, delivering valuable insights and supporting data-driven projections for growth in Rexburg</p><p>
+- Leveraged Python libraries for data wrangling and tidying of the city's supplied datasets. The deliverables played a pivotal role in the city's strategic planning efforts, guiding decisions on new roads and areas for emerging businesses
 
-- 4.0 Major GPA
+### Experience
 
+**Logistics Specialist** | *Kool Ice & Distribution LLC |* Rigby, Idaho April 2023 - Present</p><p>
+- Managed and Implemented route optimization to enhance cost efficiency, resulting in a 10% decrease in operational expenses</p><p>
+- Optimized inventory, procurement, and warehouse processes, leading to a 20% reduction in carrying costs and a 15% improvement in order fulfillment accuracy</p><p>
 
-## Related Experience
+**Teaching Assistant** | *Brigham Young University - Idaho |* Rexburg, Idaho September 2022 - Present</p><p>
+- Collaborated with professors to curate and deliver course materials, resulting in a 20% increase in student engagement</p><p>
+- Optimized the Canvas course page by reorganizing modules, enhancing navigation, and integrating interactive elements, resulting in a 20% boost in quiz scores</p><p>
 
-### Internships
+**Proctor** | *Brigham Young University - Idaho |* Rexburg, Idaho August 2022 - April 2023 Testing Center</p><p>
+- Oversaw and monitored over 4,000 standardized and departmental examinations, resulting in an upheld standard of integrity and security in the testing process</p><p>
+- Ensured test materials' security and integrity by implementing rigorous proctoring and surveillance measures, resulting in 10% fewer cases of Academic Dishonesty</p>
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### Volunteer Experience
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+Official Representative | *The Church of Jesus Christ of Latter Day Saints |*  February 2020 - February 2022 Frankfurt, Germany
 
-### Data Science Lead
+- Managed cross-functional teams to achieve weekly, monthly, and yearly objectives while also taking the lead in organizing seminars and contributing training to over 30 employees
+- Achieved B2 fluency in German within 8 months of living in Germany with only 4 weeks of formal training
+- Served as a Technology Specialist, with experience in troubleshooting, software installations, and the maintenance of missionary software tools, including Area Book Planner and MaaS360
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Last Updated on 12/4/2023
